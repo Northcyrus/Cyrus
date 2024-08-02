@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyrus", "Cyrus\Cyrus.csproj", "{DA333AB1-8DBF-4467-9285-C65163CAE202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA333AB1-8DBF-4467-9285-C65163CAE202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA333AB1-8DBF-4467-9285-C65163CAE202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA333AB1-8DBF-4467-9285-C65163CAE202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA333AB1-8DBF-4467-9285-C65163CAE202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F37A967-BA18-4D2B-A037-DAAE4DB3DBD6}
+	EndGlobalSection
+EndGlobal
